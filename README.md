@@ -1,0 +1,1 @@
+# Project Sample [![Build status](https://ci.appveyor.com/api/projects/status/8dp68ydxquajm47j?svg=true)](https://ci.appveyor.com/project/samkovna/homeworkauto-5-1)
